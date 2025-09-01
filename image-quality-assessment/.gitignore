@@ -1,0 +1,9 @@
+**/opencv-env/
+env
+__pycache__/
+.DS_STORE
+output/
+wandb
+test-pyiqa/run_information.md
+artifacts
+.vscode

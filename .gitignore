@@ -1,0 +1,8 @@
+**/.DS_STORE
+**/env/
+**/__pycache__/
+**/.DS_STORE
+image-quality-assessment/output/
+**/wandb
+**/artifacts
+**/.vscode
